@@ -19,14 +19,14 @@ https://youtu.be/aQeLOC3gx6Y
 https://youtu.be/5wIW4RQKLoc
  
 6.  ESaaS Ch. 1.6: Cloud Computing (10:20) > Lecture Video (10:00)
-<iframe width="500" height="281" src="https://www.youtube.com/embed/Oc3luehzg5E" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/Oc3luehzg5E
  
 7.  ESaaS Ch. 1.7: Beautiful Code vs. Legacy Code (2:58) > Lecture Video (2:24)
-<iframe width="500" height="281" src="https://www.youtube.com/embed/Kc3bHSTjMxs" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/Kc3bHSTjMxs
  
 8.  ESaaS Ch. 1.8: Software Quality Assurance (5:17) > Lecture Video (4:35)
-<iframe width="500" height="281" src="https://www.youtube.com/embed/kn0Tp8ieoNE" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/kn0Tp8ieoNE
  
 9.  ESaaS Ch. 1.9: Productivity: Conciseness, Synthesis, Reuse, and Tools (6:30) > Lecture Video (5:05)
-<iframe width="500" height="281" src="https://www.youtube.com/embed/p_v1GrgdFR0" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/p_v1GrgdFR0
  
